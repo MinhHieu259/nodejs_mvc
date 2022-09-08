@@ -1,0 +1,17 @@
+npm init
+
+-- Tao file index.js
+
+-- install express: npm install expess
+
+-- install nodemon (tu dong thay reload lai server): npm i nodemon --save-dev
+
+-- Vao trong package.json: them  "start": "nodemon --inspect index.js"
+
+-- install morgan (logger http rerquest): npm i morgan --save-dev
+
+-- install express handlebars (để chia commponent giao diện): npm install express-handlebars
+
+-- install sass: npm install node-sass --save-dev
+
+-- add "watch": "node-sass --watch src/resources/scss/ --output src/public/css/" (De convert scss qua css)
