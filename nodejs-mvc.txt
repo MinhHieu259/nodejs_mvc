@@ -15,3 +15,5 @@ npm init
 -- install sass: npm install node-sass --save-dev
 
 -- add "watch": "node-sass --watch src/resources/scss/ --output src/public/css/" (De convert scss qua css)
+
+-- install mongoose (để kết nối database): npm install mongoose
